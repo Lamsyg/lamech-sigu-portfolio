@@ -1,4 +1,4 @@
-# Lamech Odhiambo Sigu — Portfolio
+# Lamech Sigu — Portfolio
 
 A responsive personal landing page and technical portfolio built with Next.js, React and Tailwind CSS.
 
